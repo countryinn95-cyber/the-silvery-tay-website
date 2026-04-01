@@ -1,0 +1,101 @@
+# Code Citations
+
+## License: unknown
+https://github.com/runline/bfqualitysolutions/blob/f93bd1494f69c71ed403469e65aa6721c9b38a0f/index.html
+
+```
+/header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#properties">Properties</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>
+```
+
+
+## License: unknown
+https://github.com/Git-Raasheed/Raasheed/blob/70115be31da0a6017d736119361f3e92c095b7a5/index3.html
+
+```
+/header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#properties">Properties</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>
+```
+
+
+## License: unknown
+https://github.com/musaab1104/FlatmateFinder/blob/b481482c17417f2802f9ed8e44aeeb3c6c80bdee/home.html
+
+```
+/header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#properties">Properties</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>
+```
+
+
+## License: unknown
+https://github.com/Samira0012/property/blob/944222dc8b5e40ff84ad6109191ff922d927824e/property.html
+
+```
+/header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#properties">Properties</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>
+```
+
+
+## License: unknown
+https://github.com/dhirajrajput03/new-file/blob/5789959be65a7b8310b19990508947e7f91c2a20/file.html
+
+```
+/header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#properties">Properties</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>
+```
+

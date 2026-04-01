@@ -1,0 +1,69 @@
+/* Collage styles for About Us overlay */
+.collage-container {
+    position: relative;
+    width: 100vw;
+    max-width: 100%;
+    min-height: 220px;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 0 auto 2rem auto;
+    z-index: 1;
+}
+.collage-row {
+    display: flex;
+    width: 100vw;
+    max-width: 100%;
+    height: 220px;
+    position: relative;
+    z-index: 1;
+}
+.collage-row img {
+    width: 25vw;
+    max-width: 400px;
+    min-width: 200px;
+    height: 220px;
+    object-fit: cover;
+    opacity: 0.85;
+    filter: brightness(0.85) blur(0.5px);
+    transition: filter 0.3s;
+}
+.collage-overlay-text {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+    pointer-events: none;
+}
+.collage-overlay-text h2 {
+    color: #fff;
+    font-size: 2.8rem;
+    font-weight: 900;
+    text-shadow: 2px 2px 12px rgba(0,0,0,0.85), 0 0 20px #007bff99;
+    background: rgba(0,0,0,0.32);
+    padding: 0.7rem 2.5rem;
+    border-radius: 12px;
+    letter-spacing: 2px;
+    margin: 0;
+}
+@media (max-width: 900px) {
+    .collage-row img {
+        min-width: 120px;
+        height: 120px;
+    }
+    .collage-container, .collage-row {
+        height: 120px;
+        min-height: 120px;
+    }
+    .collage-overlay-text h2 {
+        font-size: 1.3rem;
+        padding: 0.3rem 0.7rem;
+    }
+}
